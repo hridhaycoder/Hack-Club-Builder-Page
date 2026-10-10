@@ -1,0 +1,20 @@
+:root {
+    --cyan: #06d6e8;
+    --black: #000000;
+    --text: #eef3ff;
+    --muted: #a9b8dd;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0
+}
+
+body {
+    font-family: "Inter", system-ui sans-serif;
+    color: var(--text);
+    line-height: 1.65;
+    background: linear-gradient(180deg, var(--cyan) 0, #043a44 50svh, #000 75svh);
+    background-color: var(--black);
+
+}

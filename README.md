@@ -11,7 +11,13 @@ I hosted it on vercel so it's public to anyone, you just need internet and a bro
 
 Screenshots
 
+HTML part
+
 ![alt text](<Screenshot 2026-10-13 at 1.46.39 PM.png>)
+
+CSS part
+
+![alt text](<Screenshot 2026-10-13 at 1.54.05 PM.png>)
 
 Getting Started
 

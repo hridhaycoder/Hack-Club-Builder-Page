@@ -142,3 +142,20 @@ header h1 {
 .project-grid article:hover {
     transform: translateY(-6px);
 }
+
+#start-btn {
+    display: block;
+    margin-top: 1rem;
+    padding: .6rem 1.4rem;
+    font: inherit;
+    color: var(--text);
+    background: transparent;
+    border: 1px solid var(--cyan);
+    border-radius: 999px;
+    cursor: pointer;
+}
+
+#start-btn:hover {
+    background: var(--cyan);
+    color: #000;
+}

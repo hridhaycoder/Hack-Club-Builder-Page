@@ -8,6 +8,9 @@ Description
 
 It's pretty much just an html page with css styling, just scroll and read, and that's it. 
 I hosted it on vercel so it's public to anyone, you just need internet and a browser.
+It has scroll and hover animations so it feels more interactive than most websites to people
+reading it. I also added a snake game at the bottom in case anyone go bored just reading
+you can just play on, just press start and use arrow keys to get apples.
 
 Screenshots
 
@@ -38,7 +41,7 @@ Just open the link https://hack-club-builder-page.vercel.app/.
 
 Help
 
-Try reloading the page if it doesn't work and please reach out on slack
+Try reloading the page if it doesn't work and please reach out on slack or the contact section on the bottom
 
 License
 
